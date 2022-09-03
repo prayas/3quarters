@@ -6,3 +6,4 @@
 5. If a 3/4 circle has one of its quadrants on a yellow square, the score is doubled. 
 6. The player with 25 points first wins. 
 7. Avoid emptying the board — it will give you a penalty of 10 points.
+8. Each move has to be made in 20 s. Use a mobile to keep time. 
